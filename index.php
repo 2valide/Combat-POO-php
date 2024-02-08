@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="style.css">
+
+
 <?php
 require_once('Personnage.class.php');
 require_once('Magicien.class.php');

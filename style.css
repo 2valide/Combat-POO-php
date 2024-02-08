@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    text-align: center;
+    background-image: url('./texture-manuscrite-papier-fond-surface-papier-peint-vierge_84485-1773\ \(1\).png');
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+    /* height: 100vh; */
+
+}

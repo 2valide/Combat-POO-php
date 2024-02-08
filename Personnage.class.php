@@ -92,6 +92,10 @@ class Personnage {
         $this->experience += 1;
     }
 
+    public function attaquer($cible, $forceFrappe) {
+        $this->frappe($cible, $forceFrappe);
+    }
+
     
 }
 
