@@ -8,7 +8,7 @@ class Personnage {
     private $degats;
     public $tour = 'joueur1';
 
-    // Getters et Setter
+    // Getters
     public function getNom() {
         return $this->nom;
     }
@@ -98,14 +98,6 @@ class Personnage {
 
     
 }
-
-// Exemple d'utilisation
-// $joueur1 = new Personnage("Joueur 1", 20, 10); // nom force degats
-// $joueur2 = new Personnage("Joueur 2", 15, 8);
-
-// $degats = 10;
-// Joueur 1 frappe Joueur 2
-// $joueur1->frappe($joueur2, $degats);
 
 
 

@@ -43,14 +43,4 @@ class Magicien extends Personnage {
     
 }
 
-// // Exemple d'utilisation
-// $joueur1 = new Personnage("Joueur 1", 20, 10);
-// $magicien1 = new Magicien("Magicien 1", 15, 5);
-
-// // Magicien 1 lance un sort sur Joueur 1
-// $magicien1->lanceUnSort($joueur1);
-
-// // Magicien 1 lance un rayon de lumière sombre sur Joueur 1
-// $magicien1->lanceUnRayonDeLumiereSombre($joueur1);
-
 ?>
